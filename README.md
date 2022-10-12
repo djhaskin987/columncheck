@@ -1,5 +1,5 @@
-# columncheck
-look at which interfaces allow for 80 characters.
+# column-check
+Look at which interfaces allow for 80, 100, and 120 characters.
 
 ## 80 Columns
 
